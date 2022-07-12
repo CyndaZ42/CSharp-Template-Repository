@@ -27,7 +27,7 @@ Navigate to
    ├── <strong>ProjectName</strong>
    └── ProjectName.Tests</pre>
 
-Run ```bash $ dotnet run``` in the console
+Run ```$ dotnet run``` in the console
 </details>
 
 <details>
@@ -37,7 +37,7 @@ Navigate to
     ├── ProjectName
     └── <strong>ProjectName.Tests</strong></pre>
 
-Run ```bash $ dotnet test``` in the console
+Run ```$ dotnet test``` in the console
 
 </details>
 <br>
